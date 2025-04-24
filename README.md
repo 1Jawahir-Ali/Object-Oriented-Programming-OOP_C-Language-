@@ -13,15 +13,15 @@ This repository covers key concepts of Object-Oriented Programming (OOPs) in C++
 <br>
 <a href="https://www.geeksforgeeks.org/encapsulation-in-cpp/   ">3.Encapsulation</a>
 <br>
-<a href="  https://www.geeksforgeeks.org/cpp-polymorphism/  ">4.Polymorphism</a>
+<a href="https://www.geeksforgeeks.org/cpp-polymorphism/ ">4.Polymorphism</a>
 <br>
-<a href="   https://www.geeksforgeeks.org/inheritance-in-cpp/ ">5.Inheritance</a>
+<a href="https://www.geeksforgeeks.org/inheritance-in-cpp/ ">5.Inheritance</a>
 <br>
-<a href="   https://www.geeksforgeeks.org/abstraction-in-cpp/  ">6.Abstraction</a>
+<a href="https://www.geeksforgeeks.org/abstraction-in-cpp/  ">6.Abstraction</a>
 </p>
 <br>
 <h3>Contact: </h3>
 <h5>03488949899/03173878506</h5>
 <br>
 <h3>Email:`</h3>
- <h5> jawahirmehboob975@gmail.com </h5>
+ <a href="jawahirmehboob975@gmail.com "/a>
