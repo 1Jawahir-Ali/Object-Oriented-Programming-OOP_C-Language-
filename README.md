@@ -24,5 +24,4 @@ This repository covers key concepts of Object-Oriented Programming (OOPs) in C++
 <h5>03488949899/03173878506</h5>
 <br>
 <h3>Email:`</h3>
- <h5> jawahirmehboob975@gmail.com </h5>
- <a mailto="jawahirmehboob975">jawahirmehboob975</a>
+ <h5>  <a href="mailto:jawahirmehboob975">jawahirmehboob975.com</a> </h5>
