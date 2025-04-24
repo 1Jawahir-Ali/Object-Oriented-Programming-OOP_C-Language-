@@ -1,7 +1,7 @@
 ## Object-Oriented-Programming-OOP_C++-Language-
 <h2>Author:</h2>
 <h3>Jawahir Ali</h3>
-</h3>About Repository:</h3>
+<h3>About Repository:</h3>
 <p>I am very excited to share my program on GitHub because it provide a platform to work in collaboration.  We can discuss on the programs,that how to make better programs.
 </p>
 <p>  Object Oriented Programming (OOPs)
@@ -24,4 +24,5 @@ This repository covers key concepts of Object-Oriented Programming (OOPs) in C++
 <h5>03488949899/03173878506</h5>
 <br>
 <h3>Email:`</h3>
- <a href="jawahirmehboob975@gmail.com "/a>
+ <h5> jawahirmehboob975@gmail.com </h5>
+ <a mailto="jawahirmehboob975">jawahirmehboob975</a>
