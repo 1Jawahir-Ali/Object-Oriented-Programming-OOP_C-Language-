@@ -8,11 +8,12 @@
 This repository covers key concepts of Object-Oriented Programming (OOPs) in C++ such as classes, objects, encapsulation, inheritance, polymorphism, and abstraction.
 
 <a href="https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/">Object Oriented Programming (OOPs)</a>
-<a href="   https://www.geeksforgeeks.org/c-classes-and-objects/ ">Classes and Objects</a>
-<a href=" https://www.geeksforgeeks.org/encapsulation-in-cpp/   ">Encapsulation</a>
+<a href="https://www.geeksforgeeks.org/c-classes-and-objects/ ">Classes and Objects</a>
+<a href="https://www.geeksforgeeks.org/encapsulation-in-cpp/   ">Encapsulation</a>
 <a href="  https://www.geeksforgeeks.org/cpp-polymorphism/  ">Polymorphism</a>
 <a href="   https://www.geeksforgeeks.org/inheritance-in-c/ ">Inheritance</a>
-<a href="   https://www.geeksforgeeks.org/inheritance-in-c/  ">Abstraction </p>
+<a href="   https://www.geeksforgeeks.org/inheritance-in-c/  ">Abstraction</a>
+</p>
 <br>
 <h4>Contact: </h4>
 <h5>03488949899/03555702618/03173878506</h5>
