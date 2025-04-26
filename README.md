@@ -6,7 +6,6 @@
 </p>
 <p>  Object Oriented Programming (OOPs)
 This repository covers key concepts of Object-Oriented Programming (OOPs) in C++ such as classes, objects, encapsulation, inheritance, polymorphism, and abstraction.
-
 <a href="https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/">1.Object Oriented Programming (OOPs)</a>
 <br>
 <a href="https://www.geeksforgeeks.org/c-classes-and-objects/ ">2.Classes and Objects</a>
