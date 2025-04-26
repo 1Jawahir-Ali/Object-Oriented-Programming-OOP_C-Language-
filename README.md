@@ -5,7 +5,7 @@
 <p>I am very excited to share my program on GitHub because it provide a platform to work in collaboration.  We can discuss on the programs,that how to make better programs.
 </p>
 <p>  Object Oriented Programming (OOPs)
-This repository covers key concepts of Object-Oriented Programming (OOPs) in C++ such as classes, objects, encapsulation, inheritance, polymorphism, and abstraction.
+This repository covers key concepts of Object-Oriented Programming (OOPs) in C++ such as classes, objects, encapsulation, inheritance, polymorphism, and abstraction.<br>
 <a href="https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/">1.Object Oriented Programming (OOPs)</a>
 <br>
 <a href="https://www.geeksforgeeks.org/c-classes-and-objects/ ">2.Classes and Objects</a>
@@ -18,7 +18,6 @@ This repository covers key concepts of Object-Oriented Programming (OOPs) in C++
 <br>
 <a href="https://www.geeksforgeeks.org/abstraction-in-cpp/  ">6.Abstraction</a>
 </p>
-<br>
 <h3>Contact: </h3>
 <h5>03488949899/ 03173878506
 </h5>
