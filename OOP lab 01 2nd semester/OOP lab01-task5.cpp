@@ -61,7 +61,7 @@ using namespace std;
  float Calculator::divide(){
  	if(num2!=0){
  	return num1/num2;
- }else{cout<<"Cannot divide by zero(Undefine)."<<endl;
+ }else{cout<<"Can not divide by zero(Undefine)."<<endl;
  return 0;
  }
  
