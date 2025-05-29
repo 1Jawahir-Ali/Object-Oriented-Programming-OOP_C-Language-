@@ -7,19 +7,19 @@
 using namespace std;
 int main(){
 	 
-//    Task no_1	 Employee Management System
+//   -------------> Task no_1	 Employee Management System
 
 //    Employee employee;
 //    employee.DisplayDetails(); 
 	
 	
-//   Task no_2 Bank Account Initialization
+//   -------------> Task no_2 Bank Account Initialization
 
 //   BankAccount a1("xxxxxxx","Jawahir Ali",10000);
 //   a1.ShowAccountDetails(); 
 	
 	
-// Task no_3  Constructor Overloading - Rectangle Area + Dimensions  	
+// ----------------> Task no_3  Constructor Overloading - Rectangle Area + Dimensions  	
 
 /*	 Rectangle rectangle1;
 	 Rectangle rectangle2(2.5,4.6);
@@ -35,7 +35,7 @@ int main(){
 */	
 	
 	
-//	Task no_4   Destructor 
+//   ----------------> Task no_4   Destructor 
 
     cout<<"Locker on stack."<<endl;
     {
