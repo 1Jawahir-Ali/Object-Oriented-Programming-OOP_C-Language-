@@ -2,7 +2,7 @@
 #include <cmath> 
 
 using namespace std;
-
+# define PI 3.14
 // Base class
 class Shape {
 public:
@@ -28,11 +28,12 @@ private:
 public:
     Circle(double r) : radius(r) {}
     double area() override {
-        return M_PI * radius * radius;
+        return PI*(radius * radius);
     }
 };
 
 int main() {
+	
     Shape* shapePtr; // Pointer to base class
 
     // Rectangle
@@ -47,4 +48,5 @@ int main() {
 
     return 0;
 }
+
 
