@@ -23,6 +23,8 @@
 <a href="https://www.geeksforgeeks.org/Ststic keyword-in-cpp/">9.Static Keyword</a>
 <br>
 <a href="https://www.geeksforgeeks.org/Friend Function,Friend Class -in-cpp/">10.Friend Function & Friend Class</a>
+<br>
+<a href="https://www.geeksforgeeks.org/Exception  Handling -in-cpp/">11. Exception Handling</a>
 </p>
 <h3>About Repository:</h3>
 <p>I am very excited to share my program on GitHub because it provide a platform to work in collaboration. We can discuss on the programs,that how to make better programs.These are my OOP tasks of Second Semester.
