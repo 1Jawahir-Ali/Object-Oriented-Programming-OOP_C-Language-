@@ -1,8 +1,9 @@
-<h3 align="center">Hi I am Jawahir Ali | Software Engineering Student</h3>
+<h3 align="center">Hi, I am Jawahir Ali | Software Engineering Student</h3>
 <h6>Profile Views</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1jawahir-ali&label=Profile%20views&color=0e75b6&style=flat" alt="1jawahir-ali" /> </p>
 <h4> Object-Oriented Programming(OOP):<i><h4> By Using C++ Language</i><h2><p align="center" C++ Languag</h4></i></h4><p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-                                                                                                                                                                                                <h2 align="center"> <i>Object Oriented Programming (OOP) basic concepts: </i></h2>
+                                                                                                                                                                                                
+<h2 align="center"> <i>Object Oriented Programming (OOP) basic concepts: </i></h2>
 <h6>This repository covers key concepts of Object-Oriented Programming (OOPs) in C++ such as classes, objects, encapsulation, inheritance, polymorphism, and abstraction.<br></h6>
 <a href="https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/">1.Object Oriented Programming-(OOP)</a>
 <br>
@@ -30,13 +31,12 @@
 <p>I am very excited to share my program on GitHub because it provide a platform to work in collaboration. We can discuss on the programs,that how to make better programs.These are my OOP tasks of Second Semester.
 <h3><b><u>What's Inside The Treasure Chest?</h3></b></u>
 This repository is a hands-on exploration of the four pillars of OOP, bringing theory to life with code:
-<h4><b>Pillar	Concept	Description:</b></h4>
-<b>🧊	Encapsulation	Bundling------</b>      data and methods, hiding internal state.<br>
-<b>🧬	Inheritance------</b>                  Creating hierarchical relationships between classes.<br>
-<b>🔄	Polymorphism------</b>               	Unlocking the power of one interface, multiple implementations.<br>
-<b>🔍	Abstraction------</b>                 Hiding complexity, exposing only what's necessary.<br>            
-</p>
-
+<h3><b>Pillar	Concept	Description:-</b></h3>
+<p><b>🧊	Encapsulation  </b>&emsp;	 Bundling data and methods, hiding internal state.<br></p>
+<p><b>🧊	Inheritance    </b>&emsp;  Creating hierarchical relationships between classes.<br></p>
+<p><b>🧊	Polymorphism   </b>&emsp;	 Unlocking the power of one interface, multiple implementations.<br></p>  
+<p><b>🧊  Abstraction    </b>&emsp;  Hiding complexity, exposing only what's necessary.<br></p>
+<h3>How To Reach Me:</h3>
 <h4>Contact:</h4><h6>03488949899</h6>
 <h4>Email: </h4>
 <h6> <a href="mailto:jawahirmehboob975">jawahirmehboob975.com</a> </h6>
