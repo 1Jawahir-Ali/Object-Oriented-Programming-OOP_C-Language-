@@ -7,12 +7,12 @@ class Rectangle{
 	int length;
 	int width;
 
-	// Member Functions & // Declaring functions 
+	// Member Functions .... Declaring functions inside the class
 	void setDiamensions();
 	void area();               
 	void perimeter();
 };
-    //Defining Functions 
+    //Defining Functions .....  Outside the class 
     
     void Rectangle::setDiamensions(){
     cout<<"Enter length: ";
@@ -44,3 +44,4 @@ class Rectangle{
 	
 	
 	
+
