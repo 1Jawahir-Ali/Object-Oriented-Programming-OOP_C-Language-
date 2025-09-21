@@ -6,7 +6,7 @@ class Temperature{
 	public:
  // Attributes
  double temp_in_celsius;
- double temfahrenheit;
+ double temp_fahrenheit;
 
  //	Member Functions
  	void temp_Convert(){
@@ -14,7 +14,9 @@ class Temperature{
  		cin>>temp_in_celsius;
 	 }
 	void displaytemp(){
-			cout<<"\nThe temperature in Fahrenheit is ="<<(temp_in_celsius*9/5)+32<<endl;
+		    cout<<"\nFormula for Conversion:-"<<endl;
+		    cout<<"\t\t(Temp in Degree Centigrate x 9/5) + 32"<<endl;
+			cout<<"\nThe temperature in Fahrenheit is= "<<(temp_in_celsius*9/5)+32<<endl;
 	}
 	
 	
@@ -27,3 +29,4 @@ class Temperature{
  	
  	return 0;
  }
+
