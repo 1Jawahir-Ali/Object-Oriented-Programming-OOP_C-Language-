@@ -1,5 +1,0 @@
-Hello World!
-This is me Jawahir Ali 
-This is lab of File Handling
-Appended: Name: Jawahir Ali
-Appended: Roll Number: 2024-SE-34
