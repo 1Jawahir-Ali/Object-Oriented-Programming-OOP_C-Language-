@@ -8,10 +8,11 @@ class Voter {
 	string name;
 	int age;
 	
-	// Member Function
+	// Member Function Declaring inside the Class
 	void is_Eligible();
 	
  };
+  // Member Function Definition Outside the Class
  void Voter::is_Eligible(){
  	cout<<"Enter Your age,please: ";
  	cin>>age;
@@ -36,3 +37,4 @@ class Voter {
  	
  	
  }
+
