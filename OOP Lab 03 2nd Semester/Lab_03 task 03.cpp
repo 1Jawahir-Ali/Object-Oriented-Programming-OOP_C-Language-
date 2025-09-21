@@ -13,7 +13,7 @@ class Person{                  //------------->This is Base class / Parent Class
 	}
 	void showPerson(){
 		cout<<"The Name is: "<<name<<endl;
-		cout<<"The age is: "<<age<<" Years"<<endl;
+		cout<<"The age is: "<<age<<endl;
 	}
 	
 };
@@ -42,10 +42,11 @@ int main(){
 	p1.showPerson();
 	cout<<"\nChild class/Derived Class"<<endl;
 	Student s1;
-	s1.setStudent("Ali Muhammad",3,54);
+	s1.setStudent("Ali",3,54);
 	s1.showStudent();
 	return 0;
 }
+
 
 
 
