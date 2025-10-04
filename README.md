@@ -4,26 +4,26 @@
 <p align="center"><h4><i>Object-Oriented Programming(OOP)</i><h4> By Using C++ Language</i><h2><p align="center" C++ Languag</h4></i></h4><p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
                                                                                                                                                                                              
 <h2 align="center"> <i>Object Oriented Programming (OOP) basic concepts</i></h2>
-<h4>📂 About Repository:</h4>
+<h4>About Repository:</h4>
 I’m very excited to share my program on GitHub, as it provides a great platform for collaboration and knowledge sharing.
 <h4>This repository contains:</h4>
-📝 Basic OOP Programs: Simple examples to understand the fundamentals.<br>
-🌾 Project: Farming Management System: A practical implementation of OOP concepts.<br>
-<h4>💡 What is OOP?</h4>
+ Basic OOP Programs: Simple examples to understand the fundamentals.<br>
+ Project: Farming Management System: A practical implementation of OOP concepts.<br>
+<h4>What is OOP?</h4>
 <h5>Object-Oriented Programming (OOP) is a paradigm based on the concept of objects, which can:<br></h5>
 Store data (attributes/properties).<br>
 Contain functions (methods) that operate on that data.
-<h4>🌟 Advantages of Object-Oriented Programming (OOP)</h4>
-✅ Clear Structure – OOP provides a well-organized structure to programs.<br>
-✅ Easy Maintenance & Debugging – Code is simpler to maintain, reuse, and debug.<br>
-✅ DRY Principle (Don’t Repeat Yourself) – Avoids repetition by reusing functions and classes.<br>
-✅ Reusability – Makes it possible to build fully reusable applications with less code and shorter development time.<br>
+<h4>Advantages of Object-Oriented Programming (OOP)</h4>
+1. Clear Structure – OOP provides a well-organized structure to programs.<br>
+2. Easy Maintenance & Debugging – Code is simpler to maintain, reuse, and debug.<br>
+3. DRY Principle (Don’t Repeat Yourself) – Avoids repetition by reusing functions and classes.<br>
+4. Reusability – Makes it possible to build fully reusable applications with less code and shorter development time.<br>
 <h4>💡 Tip:</h4>
 The DRY principle means don’t write the same code more than once.Instead, move repeated code into functions or classes and reuse it.
 
 <h4><b><u>What's Inside The Treasure Chest?</h4></b></u>
 This repository is a hands-on exploration of the four pillars of OOP, bringing theory to life with code:
-<h4><b>🏛️ Pillars Of OOP:-</b></h4>
+<h4><b>Pillars Of OOP:-</b></h4>
 <p><b>🧊	Encapsulation  </b>&emsp;	</b>&emsp; Bundling data and methods, hiding internal state.<br></p>
 <p><b>🧊	Inheritance    </b>&emsp;</b>&emsp;   Creating hierarchical relationships between classes.<br></p>
 <p><b>🧊	Polymorphism   </b>&emsp;</b>&emsp;	 Unlocking the power of one interface, multiple implementations.<br></p>  
